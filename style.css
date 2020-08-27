@@ -1,0 +1,27 @@
+/* selector {
+    property: value;
+} */
+body {
+    background-image: url(fondo.jpg);
+    background-size: cover;
+}
+h2, p {
+    color: #510051;
+    text-align: center;
+    border: 5px solid #841484;
+    cursor: pointer;
+}
+
+p {
+    color: #6B086B;
+}
+
+li {
+   list-style: none;
+   display: inline-block;
+   color: #6B086B;
+}
+
+.webtext {
+    border: 5px dashed #A74DA7;
+}
